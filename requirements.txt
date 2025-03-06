@@ -1,6 +1,5 @@
 flask==2.3.3
 gunicorn==20.1.0
-sentence-transformers==2.7.0
+sentence-transformers==3.4.1
 numpy==1.24.3
 torch==2.0.1
-pandas
